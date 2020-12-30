@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms Tomas Conti 33", "Calculadora de Área - Formas Geométricas\Forms Tomas Conti 33.csproj", "{76FCF981-25A6-4810-BED1-2CB6D1FE5A15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76FCF981-25A6-4810-BED1-2CB6D1FE5A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FCF981-25A6-4810-BED1-2CB6D1FE5A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FCF981-25A6-4810-BED1-2CB6D1FE5A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FCF981-25A6-4810-BED1-2CB6D1FE5A15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25BA9776-4B3E-4C56-BBDE-B73B416B1B00}
+	EndGlobalSection
+EndGlobal
